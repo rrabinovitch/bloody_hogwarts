@@ -92,7 +92,7 @@ User Story Extension
 
 Students index page shows students in alphabetical order.
 Courses index page shows courses in alphabetical order.
-And shows students per course in alphabetical order.
+And the courses index page also shows students per course in alphabetical order.
 
 (e.g. "Defense Against the Dark Arts: 3"
       "- Elizabeth Burke"  
