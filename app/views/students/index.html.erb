@@ -1,0 +1,7 @@
+<h1>Students</h1>
+
+<% @students.each do |student| %>
+  <h2> <%= "Name: #{student.name}" %> </h2>
+  <p> <%= "Age: #{student.age}" %> </p>
+  <p> <%= "House: #{student.house}" %> </p>
+<% end %>
