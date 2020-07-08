@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe "Student index" do
+RSpec.describe "Students index" do
   before(:each) do
     @student_1 = Student.create!(name: "Casseopia Black", age: 14, house: "Slytherin")
     @student_2 = Student.create!(name: "AJ Dorion", age: 44, house: "Ravenclaw")
